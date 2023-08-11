@@ -123,13 +123,23 @@
         
         {
             "key": "csp_xBPQ_超清",
-            "name": "香蕉超清",
+            "name": "4XXAA超清",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "{\"分类url\":\"https://4xxaa.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按首页切换源$2k-zipaitoupai#设置可选推荐豆瓣$2k-chaoqingchuanmei#未成年禁止使用$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#直播录播$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://4xxaa.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }"
+            "ext": "{\"分类url\":\"https://4xxaa.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"亚洲AV$2k-yazhou#自拍偷拍$2k-zipaitoupai#超清传媒$2k-chaoqingchuanmei#3D动漫$2k-3Ddongman#欧美AV$2k-oumei#乱伦人妻$2k-luanlunrenqi#丝袜制服！$2k-siwazhifu#直播录播$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://4xxaa.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }"
+        },
+        {
+            "key": "csp_xBPQ_中文字幕",
+            "name": "4XXAA中文",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"分类url\":\"https://4xxaa.vip/xjzy/{cateId}-{catePg}.html\", \"分类\":\"解说原片$cn-jieshuoyuanpian#3D同人$cn-3Dtongren#中文无码$cn-zhongwenwuma#中文综合$cn-zhongwenzonghe#中文近亲$2k-oumei#中文护士$cn-zhongwenhushi#中文师生$cn-zhongwenshisheng#中文强奸$cn-zhongwenqiangjian#明星淫梦$cn-mingxingyinmeng$国产自拍$cn-guochanzipai$三级伦理$cn-sanjilunli\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/xjzy/Kplay&&.html\\\"\", \"链接前缀\": \"https://4xxaa.vip/xjzy/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }"
         },
         {
             "key": "csp_xBPQ-说明",
