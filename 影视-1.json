@@ -1,5 +1,5 @@
 {
-"spider":"./JAR/Yoursmile.jar",
+"spider":"./jar/Yoursmile.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
@@ -7,26 +7,26 @@
 
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_XYQBiu_万能影视","name":"万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/万能影视.json"},
+{"key":"csp_XYQBiu_万能影视","name":"万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/万能影视.json"},
 
-{"key":"csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/凌云影视.json"},
-{"key":"csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/555影视.json"},
-{"key":"csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/大米星球.json"},
-{"key":"csp_XYQBiu_影视工厂","name":"影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/影视工厂.json"},
-{"key":"csp_XYQBiu_片吧影院","name":"片吧影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/片吧影院.json"},
-{"key":"csp_XYQBiu_vofix","name":"VOFIX(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/vofix.json"},
-{"key":"csp_XYQBiu_莫扎兔","name":"莫扎兔(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/莫扎兔.json"},
-{"key":"csp_XYQBiu_聚合电影","name":"聚合电影(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/聚合电影.json"},
-{"key":"csp_XYQBiu_剧荒","name":"剧荒TV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/剧荒.json"},
-{"key":"csp_XYQ_动视影视","name":"动视影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/动视影视.json"},
-{"key":"csp_XYQBiu_斗鱼直播","name":"斗鱼直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/斗鱼直播.json"},
-{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/虎牙直播.json"},
-{"key":"csp_XYQBiu_网易CC直播","name":"网易CC直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/网易CC直播.json"},
-{"key":"csp_XYQBiu_17klive","name":"体育直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/17klive.json"},
-{"key":"csp_XYQBiu_萌番组","name":"萌番组(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/萌番组.json"},
-{"key":"csp_XYQBiu_酷狗MV","name":"酷狗MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/酷狗MV.json"},
-{"key":"csp_XYQBiu_酷奇MV","name":"酷奇MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/酷奇MV.json"},
-{"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQ/好恐怖磁力.json"},
+{"key":"csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/凌云影视.json"},
+{"key":"csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/555影视.json"},
+{"key":"csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/大米星球.json"},
+{"key":"csp_XYQBiu_影视工厂","name":"影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/影视工厂.json"},
+{"key":"csp_XYQBiu_片吧影院","name":"片吧影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/片吧影院.json"},
+{"key":"csp_XYQBiu_vofix","name":"VOFIX(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/vofix.json"},
+{"key":"csp_XYQBiu_莫扎兔","name":"莫扎兔(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/莫扎兔.json"},
+{"key":"csp_XYQBiu_聚合电影","name":"聚合电影(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/聚合电影.json"},
+{"key":"csp_XYQBiu_剧荒","name":"剧荒TV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/剧荒.json"},
+{"key":"csp_XYQ_动视影视","name":"动视影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/动视影视.json"},
+{"key":"csp_XYQBiu_斗鱼直播","name":"斗鱼直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/斗鱼直播.json"},
+{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/虎牙直播.json"},
+{"key":"csp_XYQBiu_网易CC直播","name":"网易CC直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/网易CC直播.json"},
+{"key":"csp_XYQBiu_17klive","name":"体育直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext影视JsonXYQ/17klive.json"},
+{"key":"csp_XYQBiu_萌番组","name":"萌番组(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/萌番组.json"},
+{"key":"csp_XYQBiu_酷狗MV","name":"酷狗MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/酷狗MV.json"},
+{"key":"csp_XYQBiu_酷奇MV","name":"酷奇MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/酷奇MV.json"},
+{"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./影视Json/好恐怖磁力.json"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "57a6d0febcba41c480eb14be6cfcb6f7"}
 
