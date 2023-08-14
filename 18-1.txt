@@ -248,7 +248,6 @@
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-             //"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/Missav.js"
              "ext": "https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/MISSAV.json"
         },
         {
