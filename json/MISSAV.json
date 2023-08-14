@@ -1,22 +1,21 @@
-{
-"站名":"MISSAV",
-"主页url":"https://missav.com",
-"直接播放":"中文字幕$chinese-subtitle",
-"数组":"<div class=\"item\">&&</div>",
-"图片":"data-original=\"&&\"",
-"标题":"title=\"&&\"",
-"链接":"href=\"&&\"",
-"链接前缀":"https://missav.com",
-"线路数组":"button-rounded&&/a>",
-"线路标题":">&&<",
-"搜索数组":"<div class=\"item\">&&</div>",
-"搜索图片": "data-original=\"&&\"",
-"搜索标题":"title=\"&&\"",
-"搜索链接": "href=\"/cq/k&&.html\"",
-"搜索模式": "1",
-"搜索url":"https://missav.com/search/{wd}?page={catePg}",
-"搜索链接前缀":"https://missav.com",
-"分类url":"https://missav.com/{cateId}?page={catePg}",
-"免嗅":"1",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
+var rule = {
+    title:'Missav',
+    host:'https://missav.com',
+  	searchUrl:'/search/**',
+    url:'/cn/fyclass?page=fypage',
+    headers:{
+        'User-Agent':'MOBILE_UA'
+    },
+    timeout:5000,
+    class_name:'最近更新&中文字幕',//静态分类名称拼接
+    class_url:'new&chinese-subtitle',//静态分类标识拼接
+    limit:5,
+    play_parse:true,
+    lazy:'',
+    一级:'.grid.grid-cols-2 div&&a;.lozad.w-full&&alt;.lozad.w-full&&data-src;.absolute.bottom-1&&Text;a&&href',
+    二级:'*',
+  	搜索:'.grid.grid-cols-2 div&&a;.lozad.w-full&&alt;.lozad.w-full&&data-src;.absolute.bottom-1&&Text;a&&href',
+	  searchable:1,//是否启用全局搜索,
+    quickSearch:1,//是否启用快速搜索,
+    filterable:0,//是否启用分类筛选,
 }
