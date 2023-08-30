@@ -22,10 +22,10 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"0",
-"分类":"视频$gaotype#图片小说$gaoarttype",
+"分类":"视频$gaotype/25#图片小说$gaoarttype/29",
 "分类url":"https://2gaoab.com/{cateId}_{catePg}.html",
 "筛选":{
-"gaotype":[
+"gaotype/25":[
 {
 "key":"cateId",
 "name":"AV二一区",
@@ -83,7 +83,7 @@
 ]
 }
 ],
-"gaoarttype":[
+"gaoarttype/29":[
 {
 "key":"cateId",
 "name":"小说",
