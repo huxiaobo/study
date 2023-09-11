@@ -3,7 +3,7 @@
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/jar/h.jar;md5;adc2b3038c24d8d5d6c89d760c934875",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
-   // {"key":"csp_xBPQ_香蕉AV解说","name":"🏆香蕉解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/新香蕉AV解说.json"},
+    {"key":"csp_xBPQ_香蕉AV解说","name":"🏆香蕉解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/新香蕉AV解说.json"},
     {"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/香蕉资源.json"},
     {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/香蕉超清.json"},
     {"key":"csp_xBPQ_香蕉国产","name":"🏆香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/香蕉国产.json"},
@@ -20,10 +20,7 @@
     {"key":"csp_xBPQ_色花堂","name":"🏆色花堂","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/色花堂.json"},
     {"key":"csp_xBPQ_天天直播","name":"🏆天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/天天直播.json"},
     {"key":"csp_xBPQ_天天综合","name":"🏆天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/天天综合.json"},
-    {"key":"csp_xBPQ_黄瓜","name":"🏆黄瓜","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/黄瓜.json"},
- //   {"key":"csp_xBPQ_麻豆女优","name":"🏆麻豆女优","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/新香蕉麻豆女优.json"},
-//    {"key":"csp_xBPQ_香蕉实时直播","name":"🏆香蕉实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/新香蕉实时直播.json"},
-//    {"key":"csp_xBPQ_香蕉中文字幕","name":"🏆香蕉中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/新香蕉中文字幕.json"},
+    {"key":"csp_xBPQ_黄瓜","name":"🏆黄瓜","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/huxiaobo/study/main/json/黄瓜.json"}
   ],
   "parses":[
     {"name":"Web聚合","type":3,"url":"Web"},
